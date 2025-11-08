@@ -1,8 +1,6 @@
 # About this Project
 
-This was a part of a case study for the Readily team. 
-
-<mark> The goal is to map the data from a CSV that health auditors might use into a structured CSV for the Readily product. </mark>
+<mark> The goal is to map the data from a CSV that health auditors might use into a structured CSV. </mark>
 
 I created this script using a combination of documentation, my own abilities, and Gemini to assist in this project. 
 
